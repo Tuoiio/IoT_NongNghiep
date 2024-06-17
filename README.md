@@ -13,6 +13,8 @@
 •	Description:STM32 reads real-time data from DS1307 and temperature humidity from DHT22. Display parameter via 20x4 LCD screen. There are 4 buttons: Mode, Ok, Up, Down. There are 2 mode: Auto and Manual. 
 Mode manual turn on and off the water pump, ventilation fan and heating lamp.
 Mode automatic will rely on environmental parameters to control devices. Pump water  will depend on time and soil moisture. Ventilation fans rely on low humidity. Heat lamps rely on temperature. It can change time, date, warning high temperature and humidity, watering time, soil moisture turns the pump on and off.
+
+![z4324166057572_e6bf7a4fad589911805f02663654ddf8](https://github.com/Tuoiio/IoT_NongNghiep/assets/158831746/2fb2c714-c92b-49bf-a6ed-e5b671f6b2cd)
 ![image](https://github.com/Tuoiio/IoT_NongNghiep/assets/158831746/aa678201-d934-43b4-9a02-b09dff6772f2)
 ![image](https://github.com/Tuoiio/IoT_NongNghiep/assets/158831746/3f338fe2-a045-464d-8729-d5bcfa9dfba0)
 ![image](https://github.com/Tuoiio/IoT_NongNghiep/assets/158831746/1afeedc3-0c1f-4c9a-b8f0-2407273f46e4)
@@ -30,8 +32,6 @@ Mode automatic will rely on environmental parameters to control devices. Pump wa
 ![image](https://github.com/Tuoiio/IoT_NongNghiep/assets/158831746/228b6901-5181-4f8f-b6f5-b73a9ddc3ad1)
 ![image](https://github.com/Tuoiio/IoT_NongNghiep/assets/158831746/5208da5f-6957-4bbb-89a1-75863087ef87)
 ![image](https://github.com/Tuoiio/IoT_NongNghiep/assets/158831746/625b6bb3-4c8a-4ed7-9a1a-00e26e136ef1)
-
-![z4324166057572_e6bf7a4fad589911805f02663654ddf8](https://github.com/Tuoiio/IoT_NongNghiep/assets/158831746/2fb2c714-c92b-49bf-a6ed-e5b671f6b2cd)
 ![z4324292172290_a78f604e54a42e718b481ec188cd7296](https://github.com/Tuoiio/IoT_NongNghiep/assets/158831746/f1edcc61-a185-4698-8cce-95aae3ba20d1)
 
 
